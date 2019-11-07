@@ -1,1 +1,2 @@
 # leetcode
+## langrage: python
